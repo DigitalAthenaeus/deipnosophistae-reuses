@@ -1,2 +1,2 @@
 # deipnosophistae-reuses
-Citable analysis of quotations and text reuses in the Deipnosophistae
+Citable analyses of quotations and text reuses in the Deipnosophists of Athenaeus of Naucratis
