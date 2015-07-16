@@ -1,6 +1,6 @@
 "EntityUrn","CtsUrn","Label","OptionalCtsGroupUrn","Notes"
 "urn:cite:digAth:characters.char1","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Ἀθήναιος[1]-1.1@πατήρ[1]","Athenaeus Naucratita","urn:cts:greekLit:tlg0008","this is the author of the Deipnosophists"
-"urn:cite:digAth:characters.char2","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Τιμοκράτην","Timocrates","","This the Timocrates to whom Athenaeus relates the story of the banquet"
+"urn:cite:digAth:characters.char2","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Τιμοκράτην[1]","Timocrates","","This the Timocrates to whom Athenaeus relates the story of the banquet"
 "urn:cite:digAth:characters.char3","urn:cts:greekLit:tlg0008.tlg001.berti:1.1@Λαρήνσιος[1]-1.1@Ῥωμαῖος[1]","Larensis Romanus","","Larensis hosts the banquet described by Athenaeus"
 "urn:cite:digAth:characters.char4","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@οἱ[1]-1.2@δειπνοσοφισταὶ[1]","the deipnosophists","",""
 "urn:cite:digAth:characters.char5","urn:cts:greekLit:tlg0008.tlg001.berti:1.2@Μανσούριος[1]-1.2@ἐξηγητὴς[1]","Masurius iure consultus","","one of the deipnosophists"
